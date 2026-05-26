@@ -1,0 +1,6 @@
+{
+  "name": "Oran Estate Portal",
+  "description": "Luxurious Real Estate App for Oran, Algeria",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
